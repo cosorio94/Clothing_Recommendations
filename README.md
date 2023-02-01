@@ -1,0 +1,3 @@
+# Stacking Ensemble for Clothing Reccomendations
+
+The project presents a solution for a clothing recommendation system used for the H&M Kaggle competition. The goal is to develop 12 product recommendations based on customer and product data, as well as previous transaction history. The project uses ensemble learning, specifically stacking, of multiple base learners, including collaborative filtering and clustering models, to improve the accuracy of the recommendations. The [paper](https://github.com/cosorio94/Clothing_Recommendations/blob/master/Stacking_Ensemble_Results.pdf) explains the process of training the model weights using stochastic gradient descent based on logistic loss. The results of the methods attempted are also presented.
